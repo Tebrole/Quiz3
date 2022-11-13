@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShapeTest/1.0.0": {
+        "dependencies": {
+          "GeometryCalculator": "1.0.0"
+        },
+        "runtime": {
+          "ShapeTest.dll": {}
+        }
+      },
+      "GeometryCalculator/1.0.0": {
+        "runtime": {
+          "GeometryCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShapeTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeometryCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

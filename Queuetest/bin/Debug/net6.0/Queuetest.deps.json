@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Queuetest/1.0.0": {
+        "dependencies": {
+          "CustomQueueImplementation": "1.0.0"
+        },
+        "runtime": {
+          "Queuetest.dll": {}
+        }
+      },
+      "CustomQueueImplementation/1.0.0": {
+        "runtime": {
+          "CustomQueueImplementation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Queuetest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomQueueImplementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

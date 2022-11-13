@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UniversityTest/1.0.0": {
+        "dependencies": {
+          "UniversityClass": "1.0.0"
+        },
+        "runtime": {
+          "UniversityTest.dll": {}
+        }
+      },
+      "UniversityClass/1.0.0": {
+        "runtime": {
+          "UniversityClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UniversityTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UniversityClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

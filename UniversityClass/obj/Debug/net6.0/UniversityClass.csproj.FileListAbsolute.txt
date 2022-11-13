@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/Quiz3/UniversityClass/bin/Debug/net6.0/UniversityClass.deps.json
+/Users/apple/RiderProjects/Quiz3/UniversityClass/bin/Debug/net6.0/UniversityClass.dll
+/Users/apple/RiderProjects/Quiz3/UniversityClass/bin/Debug/net6.0/UniversityClass.pdb
+/Users/apple/RiderProjects/Quiz3/UniversityClass/obj/Debug/net6.0/UniversityClass.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Quiz3/UniversityClass/obj/Debug/net6.0/UniversityClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Quiz3/UniversityClass/obj/Debug/net6.0/UniversityClass.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Quiz3/UniversityClass/obj/Debug/net6.0/UniversityClass.AssemblyInfo.cs
+/Users/apple/RiderProjects/Quiz3/UniversityClass/obj/Debug/net6.0/UniversityClass.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Quiz3/UniversityClass/obj/Debug/net6.0/UniversityClass.dll
+/Users/apple/RiderProjects/Quiz3/UniversityClass/obj/Debug/net6.0/refint/UniversityClass.dll
+/Users/apple/RiderProjects/Quiz3/UniversityClass/obj/Debug/net6.0/UniversityClass.pdb
+/Users/apple/RiderProjects/Quiz3/UniversityClass/obj/Debug/net6.0/ref/UniversityClass.dll

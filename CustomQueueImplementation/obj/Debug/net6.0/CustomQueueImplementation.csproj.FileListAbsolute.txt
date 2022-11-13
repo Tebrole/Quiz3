@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/bin/Debug/net6.0/CustomQueueImplementation.deps.json
+/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/bin/Debug/net6.0/CustomQueueImplementation.dll
+/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/bin/Debug/net6.0/CustomQueueImplementation.pdb
+/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/obj/Debug/net6.0/CustomQueueImplementation.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/obj/Debug/net6.0/CustomQueueImplementation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/obj/Debug/net6.0/CustomQueueImplementation.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/obj/Debug/net6.0/CustomQueueImplementation.AssemblyInfo.cs
+/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/obj/Debug/net6.0/CustomQueueImplementation.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/obj/Debug/net6.0/CustomQueueImplementation.dll
+/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/obj/Debug/net6.0/refint/CustomQueueImplementation.dll
+/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/obj/Debug/net6.0/CustomQueueImplementation.pdb
+/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/obj/Debug/net6.0/ref/CustomQueueImplementation.dll

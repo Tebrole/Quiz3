@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CustomQueueImplementation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CustomQueueImplementation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomQueueImplementation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomQueueImplementation/1.0.0": {
+      "type": "project",
+      "path": "../CustomQueueImplementation/CustomQueueImplementation.csproj",
+      "msbuildProject": "../CustomQueueImplementation/CustomQueueImplementation.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CustomQueueImplementation >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/apple/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/apple/RiderProjects/Quiz3/Queuetest/Queuetest.csproj",
+      "projectName": "Queuetest",
+      "projectPath": "/Users/apple/RiderProjects/Quiz3/Queuetest/Queuetest.csproj",
+      "packagesPath": "/Users/apple/.nuget/packages/",
+      "outputPath": "/Users/apple/RiderProjects/Quiz3/Queuetest/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/apple/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/CustomQueueImplementation.csproj": {
+              "projectPath": "/Users/apple/RiderProjects/Quiz3/CustomQueueImplementation/CustomQueueImplementation.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

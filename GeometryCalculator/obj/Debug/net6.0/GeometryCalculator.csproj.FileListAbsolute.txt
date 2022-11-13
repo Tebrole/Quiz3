@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/Quiz3/GeometryCalculator/bin/Debug/net6.0/GeometryCalculator.deps.json
+/Users/apple/RiderProjects/Quiz3/GeometryCalculator/bin/Debug/net6.0/GeometryCalculator.dll
+/Users/apple/RiderProjects/Quiz3/GeometryCalculator/bin/Debug/net6.0/GeometryCalculator.pdb
+/Users/apple/RiderProjects/Quiz3/GeometryCalculator/obj/Debug/net6.0/GeometryCalculator.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Quiz3/GeometryCalculator/obj/Debug/net6.0/GeometryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Quiz3/GeometryCalculator/obj/Debug/net6.0/GeometryCalculator.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Quiz3/GeometryCalculator/obj/Debug/net6.0/GeometryCalculator.AssemblyInfo.cs
+/Users/apple/RiderProjects/Quiz3/GeometryCalculator/obj/Debug/net6.0/GeometryCalculator.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Quiz3/GeometryCalculator/obj/Debug/net6.0/GeometryCalculator.dll
+/Users/apple/RiderProjects/Quiz3/GeometryCalculator/obj/Debug/net6.0/refint/GeometryCalculator.dll
+/Users/apple/RiderProjects/Quiz3/GeometryCalculator/obj/Debug/net6.0/GeometryCalculator.pdb
+/Users/apple/RiderProjects/Quiz3/GeometryCalculator/obj/Debug/net6.0/ref/GeometryCalculator.dll
